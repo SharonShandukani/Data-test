@@ -31,3 +31,5 @@ my_date = date.today()
 a = calendar.day_name[my_date.weekday()]
 
 print(workplanner(a, now.day,now.hour))
+
+# I am testing to see what happens
